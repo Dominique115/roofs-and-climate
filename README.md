@@ -4,6 +4,8 @@ An interactive field guide to traditional roofs and climate: **13 locations, 22 
 
 ## Open the explorer
 
+[Open the public website](https://dominique115.github.io/roofs-and-climate/).
+
 Download `index.html` and open it in a desktop browser. The HTML embeds the climate dataset and photographs, so the explorer works offline. External research and attribution links require internet access.
 
 - Blue bars show monthly precipitation and the orange line shows temperature.
